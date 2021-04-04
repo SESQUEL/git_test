@@ -1,0 +1,1 @@
+This is Sesquel's first git project!
